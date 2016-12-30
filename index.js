@@ -57,6 +57,10 @@ function off(trigger) {
 	});
 }
 
+function say(message) {
+	client.say(config.channels[0], message);
+}
+
 function luring(message) {
 	try {
 		var e = eval(message);
