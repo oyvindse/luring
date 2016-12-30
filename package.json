@@ -1,0 +1,23 @@
+{
+  "name": "luring",
+  "version": "1.0.0",
+  "description": "A simple IRC bot made for #Langesund@efnet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adage": "^1.0.2",
+    "cheerio": "^0.22.0",
+    "fetch": "^1.1.0",
+    "game-server-query": "^1.0.10",
+    "insultgenerator": "0.0.2",
+    "irc": "^0.5.2",
+    "node-fetch": "^1.6.3",
+    "phantomjs-prebuilt": "^2.1.7",
+    "request": "^2.79.0",
+    "yr.no-forecast": "0.0.7"
+  }
+}
