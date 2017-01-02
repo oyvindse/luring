@@ -1,3 +1,3 @@
 # luring
 
-Remember to change config.nick, config.channel and config.server.
+Remember to change config.channel, config.server and config.clientName.
