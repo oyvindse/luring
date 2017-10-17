@@ -12,10 +12,13 @@
     "adage": "^1.0.2",
     "cheerio": "^0.22.0",
     "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
     "game-server-query": "^1.0.10",
     "insultgenerator": "0.0.2",
     "irc": "^0.5.2",
+    "minutes-to-midnight": "^0.1.0",
     "node-fetch": "^1.6.3",
+    "path": "^0.12.7",
     "phantomjs-prebuilt": "^2.1.7",
     "request": "^2.79.0",
     "yr.no-forecast": "0.0.7"
